@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8015e35e-d4ea-409b-bbe6-05018513daf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8015e35e-d4ea-409b-bbe6-05018513daf3" name="Default Changelist" comment="Выполнено ДЗ№6.">
       <change beforePath="$PROJECT_DIR$/alg_20112020/src/lesson6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/alg_20112020/src/lesson6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alg_20112020/src/lesson6/MyTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/alg_20112020/src/lesson6/MyTreeMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +85,24 @@
       <option name="presentableId" value="Default" />
       <updated>1607436814070</updated>
       <workItem from="1607436815136" duration="20000" />
-      <workItem from="1607661061685" duration="24601000" />
+      <workItem from="1607661061685" duration="25074000" />
     </task>
+    <task id="LOCAL-00001" summary="Выполнено ДЗ№6.">
+      <created>1607696654676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607696654676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнено ДЗ№6." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ№6." />
   </component>
   <component name="WindowStateProjectService">
     <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1607681160843">
@@ -144,5 +153,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607695860848" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607696656447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607696656447" />
   </component>
 </project>

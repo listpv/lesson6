@@ -58,7 +58,7 @@ public class Main {
 
         MyTreeMap<Integer, Integer>[] integerMyTreeMaps = new MyTreeMap[number];
 
-        int sunOfBalance = 0;
+        int sumOfBalance = 0;
 
         for(int i = 0; i < integerMyTreeMaps.length; i++){
 
@@ -70,11 +70,12 @@ public class Main {
             }
             System.out.println(integerMyTreeMaps[i] + "  is  " + integerMyTreeMaps[i].isBalanced() );
             if(integerMyTreeMaps[i].isBalanced() == false){
-                sunOfBalance++ ;
+                sumOfBalance++ ;
             }
 
         }
 
-        System.out.println("Процент несбалансированных деревьев " +  sunOfBalance * 100 /number + "%");
+        System.out.println("Процент несбалансированных деревьев " +  sumOfBalance * 100 /number + "%");
+        System.out.println("Сбалансированных -- " + (number -sumOfBalance) + ",  несбалансированных -- " + sumOfBalance);
     }
 }
