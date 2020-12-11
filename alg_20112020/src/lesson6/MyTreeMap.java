@@ -196,6 +196,7 @@ public class MyTreeMap<Key extends Comparable<Key>, Value> {
             node = min(node.right);
             node.right = deleteMin(temp.right);
             node.left = temp.left;
+            node.height = temp.height;
         }
 
         node.size = size(node.left) + size(node.right) + 1;
